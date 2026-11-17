@@ -28,4 +28,8 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
-git add .
+
+
+ git add .
+git commit -m "Test webhook trigger"
+git push origin main
